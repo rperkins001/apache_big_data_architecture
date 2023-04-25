@@ -1,0 +1,6 @@
+# Cluster name
+cluster_name: 'Test Cluster'
+
+# Data file directories
+data_file_directories:
+    - /cassandra/data/data
