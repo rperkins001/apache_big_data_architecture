@@ -2,6 +2,7 @@ Big Data Project
 
 This repository contains a big data project that uses various Apache components to build an end-to-end data processing pipeline. It includes Hadoop, Spark, Hive, HBase, Kafka, NiFi, and Cassandra.
 Repository Structure:
+
 big_data_project/
 │
 ├── hadoop/
